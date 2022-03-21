@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #23252c;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  background: #1a1b21;
+  width: 300px;
+  margin: auto;
+  aspect-ratio: 1/1;
+  position: fixed;
+  inset: 0rem;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.personName {
+  color: #ffffff;
+  line-height: 1px;
+  font-size: 25px;
+}
+
+.title {
+  color: #f3bf99;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1px;
+}
+
+.websiteLink {
+  color: #f5f5f5;
+  font-size: 10px;
+  line-height: 1px;
+  font-weight: 400;
+}
+
+.socialProfile {
+  display: inline;
+  font-size: 16px;
+  padding: 8px 20px;
+  border-radius: 3px;
+  margin-right: 8px;
+}
+
+.socialProfile:hover {
+  cursor: pointer;
+}
+
+#email {
+  color: #374151;
+  background: #d1d5db;
+}
+
+#linkedIn {
+  color: #ffffff;
+  background: #5093e2;
+}
+
+.fa-envelope-square,
+.fa-linkedin-square {
+  margin-right: 8px;
+}
+
+main {
+  padding: 16px;
+}
+
+.sectionTitle {
+  font-size: 16px;
+  color: #f5f5f5;
+}
+
+.sectionDesc {
+  color: #dcdcdc;
+  font-size: 12px;
+  letter-spacing: 1.2px;
+  font-weight: 600;
+  line-height: 13px;
+}
+
+footer {
+  height: 50px;
+  background: #161619;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+}
+
+.footer-icons {
+  color: #918e9b;
+  font-size: 30px;
+  margin: 0 16px;
+}
+
+.fa-hover {
+  cursor: pointer;
+}
