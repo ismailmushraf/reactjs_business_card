@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactjs_business_card/static/css/main.0d31774d.css",
+    "main.js": "/reactjs_business_card/static/js/main.ef110ef4.js",
+    "static/media/my_pic.jpg": "/reactjs_business_card/static/media/my_pic.6b89a78fdc9df493c7e7.jpg",
+    "index.html": "/reactjs_business_card/index.html",
+    "main.0d31774d.css.map": "/reactjs_business_card/static/css/main.0d31774d.css.map",
+    "main.ef110ef4.js.map": "/reactjs_business_card/static/js/main.ef110ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d31774d.css",
+    "static/js/main.ef110ef4.js"
+  ]
+}
